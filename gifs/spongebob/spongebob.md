@@ -1,4 +1,4 @@
-#Bereich Nr.
+# Bereich Nr.
 ```gif link```
-##Trigger:
+## Trigger:
 ```Zahlen untereinander mit absätzen```
