@@ -1,10 +1,10 @@
 Unterstellungen
 ```text
-https://tenor.com/ksNEotLwPci.gif
+https://media1.tenor.com/m/d_o3CAKbXOgAAAAC/unterstellungen-umfrage.gif
 ```
 Sorry Leute
 ```text
-https://tenor.com/bhVsy.gif
+https://media1.tenor.com/m/OGtApQxNRVQAAAAC/sorry-leude-sorry-leute.gif
 ```
 Nein Doch Ohh
 ```text
@@ -12,7 +12,7 @@ https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjMxb2Y3a3VjODlpZG52d2NpZWpsN2
 ```
 Zigaretten
 ```text
-https://tenor.com/TJR7.gif
+https://media1.tenor.com/m/2h0VzxP5sHwAAAAC/walter-frosch.gif
 ```
 Noice
 ```text
@@ -28,19 +28,19 @@ https://i.makeagif.com/media/8-16-2023/cwO5E9.gif
 ```
 Drachenlord Gitter Schanze
 ```text
-https://tenor.com/bDmdT.gif
+https://media1.tenor.com/m/PwngCJThVnAAAAAC/drachenlord-drache.gif
 ```
 Alarm
 ```text
-https://tenor.com/MfAU.gif
+https://media1.tenor.com/m/7p-Jnh69pqsAAAAC/alarm-german.gif
 ```
 Wegen Merkel!
 ```text
-https://tenor.com/bNeeJ.gif
+https://media1.tenor.com/m/NpJ_IKveGTcAAAAC/wegen-merkel-merkel.gif
 ```
 Wundervolle Frage - Nein !
 ```text
-https://tenor.com/viiOYu4bWUC.gif
+https://media1.tenor.com/m/9iEPeRANtHgAAAAd/das-ist.gif
 ```
 Schalke Lennard
 ```text
@@ -48,11 +48,11 @@ https://i.makeagif.com/media/5-20-2023/LZ_PrJ.gif
 ```
 Carsten Stahl
 ```text
-https://tenor.com/bXrwA.gif
+https://media1.tenor.com/m/bAOL_ERrJgIAAAAC/carsten-stahl-privatdetektive.gif
 ```
 Prinz Marcus ich bin reich
 ```text
-https://tenor.com/nvMKs6QCw9u.gif
+https://media1.tenor.com/m/m3sqnQ8SIjIAAAAC/prinz-marcus.gif
 ```
 Da hast du Pech!
 ```text
@@ -60,23 +60,23 @@ https://i.makeagif.com/media/11-15-2024/bm8NB3.gif
 ```
 Bitte helfen sie mir!
 ```text
-https://tenor.com/mOKFnTbKPq.gif
+https://media1.tenor.com/m/AmCa_E7t3HYAAAAC/bitte-helfen-sie-mir-ich-bin-in-gefahr.gif
 ```
 Farid Bang
 ```text
-https://tenor.com/X9N4.gif
+https://media1.tenor.com/m/Eu1AyoTdykMAAAAC/farid-bang-kaputt.gif
 ```
 Max Schradin Klapse
 ```text
-https://tenor.com/ZmMa.gif
+https://media1.tenor.com/m/fF_EF0dGWgEAAAAC/schradin-klapse.gif
 ```
 Sie Wichser
 ```text
-https://tenor.com/b1mov.gif
+https://media1.tenor.com/m/UqY4Zqfl0H4AAAAC/du-wichser-sie-wichser.gif
 ```
 Ich hab ganix gemacht!
 ```text
-https://tenor.com/bxUTk.gif
+https://media1.tenor.com/m/mGXh64KwuKAAAAAC/gar-nix-gemacht.gif
 ```
 Manuellsen Carbonat Erol
 ```text
@@ -88,15 +88,15 @@ https://i.makeagif.com/media/5-29-2018/jmJncG.gif
 ```
 Jägermeister
 ```text
-https://tenor.com/89mv.gif
+https://media1.tenor.com/m/lc73xOztz8oAAAAC/j%C3%A4germeister-yell.gif
 ```
 Genau Antoine
 ```text
-https://tenor.com/ZYpM.gif
+https://media1.tenor.com/m/YNtn-X6SzqUAAAAC/antoine-burtz-genau.gif
 ```
 Was labersch du? Antoine
 ```text
-https://tenor.com/baYwh.gif
+https://media1.tenor.com/m/KA-WeNE2eTUAAAAC/was-labersch-du-interview.gif
 ```
 Das gibt ne Anzeige! Karin Ritter 
 ```text
@@ -104,7 +104,7 @@ https://i.makeagif.com/media/11-19-2023/6T_YBP.gif
 ```
 Ich muss raus!
 ```text
-https://tenor.com/bgGXI.gif
+https://media1.tenor.com/m/tL9aHCpjTzIAAAAC/ich-muss.gif
 ```
 Et wird Suppe jegessen!
 ```text
@@ -112,7 +112,7 @@ https://i.makeagif.com/media/11-16-2024/XSLnMb.gif
 ```
 Michhii Bier 
 ```text
-https://tenor.com/bgGXw.gif
+https://media1.tenor.com/m/frD9ZrF8-yAAAAAC/michi-bier.gif
 ```
 Sie haben mich ins Gesicht gefilmt
 ```text
@@ -120,11 +120,11 @@ https://i.makeagif.com/media/3-21-2023/y7-u9x.gif
 ```
 Warm und lecker - Big Taste Junge
 ```text
-https://tenor.com/nr6FyBjN3Ct.gif
+https://media1.tenor.com/m/mso-1Qjv-C8AAAAC/big-tasty-big-tasty-kritiker.gif
 ```
 Harald Glööckler - Mann
 ```text
-https://tenor.com/sPh70g1392y.gif
+https://media1.tenor.com/m/2WI711JVM3gAAAAC/funny.gif
 ```
 Das geht doch nicht!
 ```text
@@ -164,11 +164,11 @@ https://i.makeagif.com/media/4-26-2021/CDYG1A.gif
 ```
 Junge haut auf Tastatur
 ```text
-https://tenor.com/xrni.gif
+https://media1.tenor.com/m/Q0uNGRsz5cIAAAAC/keyboard-crasher-angry.gif
 ```
 Prinz Marcus Ball
 ```text
-https://tenor.com/jRMW8l9Ts0n.gif
+https://media1.tenor.com/m/cQY33CZTofUAAAAC/marcus-prinz-marcus.gif
 ```
 Antoine Kaffeebecher
 ```text
@@ -184,13 +184,13 @@ https://i.makeagif.com/media/2-12-2024/D2RsaO.gif
 ```
 Ja Tv Total
 ```text
-https://tenor.com/bJMDk.gif
+https://media1.tenor.com/m/qK8Smid1tA8AAAAC/jaha-schlag.gif
 ```
 Bares für Rares - Wir freuen uns
 ```text
-https://tenor.com/bZHxS.gif
+https://media1.tenor.com/m/PDi7twaHtiwAAAAC/bares-f%C3%BCr-rares-oma.gif
 ```
 Hast du ein Problem?
 ```text
-https://tenor.com/Zrjq.gif
+https://media1.tenor.com/m/85OVJWjOBZcAAAAC/hast-du-ein-problem-ohrfeige.gif
 ```
