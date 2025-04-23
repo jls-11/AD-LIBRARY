@@ -1,6 +1,7 @@
 # AD-GIF-LIBRARY
 
-## 📁 GIF Pakete
+## 📁 GIF packages
 [Spongebob](gifs/spongebob/spongebob.md)
 
-[Template eigene Pakete](gifs/template)
+[Template own packages](gifs/template)
+
