@@ -1,5 +1,6 @@
 # 🎞️ 🇩🇪 German Memes
-#### ➡️ Weitere GIF's bitte einsenden! Alle memes sind bei `all_memes.md` einzusehen.
+#### ➡️ Please send in more GIFs! 
+#### All memes can be viewed at `all_memes.md`.
 
 ## GIF 1-10
 ```text
