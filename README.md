@@ -11,6 +11,8 @@ I am open to further suggestions regarding the addition of gifs or entire packag
 ## 📁 GIF packages
 [Spongebob](gifs/spongebob/spongebob.md)
 
+[German Memes](gifs/german-memes/german-memes.md)
+
 [Template own packages](gifs/template)
 
 ## 📁 Sound FX packages
