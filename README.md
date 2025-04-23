@@ -16,6 +16,6 @@ I am open to further suggestions regarding the addition of gifs or entire packag
 [Template own packages](gifs/template)
 
 ## 📁 Sound FX packages
-[Spongebob](gifs/spongebob/spongebob.md)
+[Example](Sound-FX/example.md)
 
-[Template own packages](gifs/template)
+[Template own packages](Sound-FX/template)
