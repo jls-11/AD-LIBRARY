@@ -1,4 +1,6 @@
 # 🎞️ 🇩🇪 German Memes
+#### ➡️ Weitere GIF's bitte einsenden! Alle memes sind bei 'all_memes.md' einzusehen. 
+
 ## GIF 1-10
 ```text
 https://i.makeagif.com/media/8-16-2023/cwO5E9.gif
