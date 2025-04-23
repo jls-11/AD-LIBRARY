@@ -1,5 +1,5 @@
 # 🇩🇪 All German Memes
-#### ➡️ Weitere GIF's bitte einsenden!
+#### ➡️ Please send in more GIFs! 
 Unterstellungen
 ```text
 https://media1.tenor.com/m/d_o3CAKbXOgAAAAC/unterstellungen-umfrage.gif
