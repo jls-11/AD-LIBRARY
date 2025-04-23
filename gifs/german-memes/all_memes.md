@@ -50,7 +50,7 @@ Carsten Stahl
 ```text
 https://tenor.com/bXrwA.gif
 ```
-Prinz Marcus
+Prinz Marcus ich bin reich
 ```text
 https://tenor.com/nvMKs6QCw9u.gif
 ```
@@ -66,7 +66,7 @@ Farid Bang
 ```text
 https://tenor.com/X9N4.gif
 ```
-Max Schraten Klapse
+Max Schradin Klapse
 ```text
 https://tenor.com/ZmMa.gif
 ```
