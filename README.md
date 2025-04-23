@@ -1,4 +1,4 @@
-# AD-GIF-LIBRARY
+# AD-GIF/FX-LIBRARY
 Welcome to the Autodarts sounds and GIF library. 
 
 Here you can easily copy links of sound effects which you can insert into Autodarts tools. 
