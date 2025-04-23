@@ -1,7 +1,7 @@
 # 🎞️ Template
 ## GIF 1-10
 ```text
-
+https://i.makeagif.com/media/8-16-2023/cwO5E9.gif
 ```
 ### Trigger
 ```text
@@ -17,7 +17,7 @@
 
 ## GIF 11-20
 ```text
-
+https://i.makeagif.com/media/8-16-2023/cwO5E9.gif
 ```
 ### Trigger
 ```text
@@ -33,7 +33,7 @@
 
 ## GIF 21-30
 ```text
-
+https://i.makeagif.com/media/8-16-2023/cwO5E9.gif
 ```
 ### Trigger
 ```text
@@ -48,7 +48,7 @@
 
 ## GIF 31-40
 ```text
-
+https://i.makeagif.com/media/8-16-2023/cwO5E9.gif
 ```
 ### Trigger
 ```text
@@ -66,7 +66,7 @@
 
 ## GIF 41-50
 ```text
-
+https://tenor.com/b1mov.gif
 ```
 ### Trigger
 ```text
@@ -82,7 +82,7 @@
 
 ## GIF 51-60
 ```text
-
+https://tenor.com/ZYpM.gif
 ```
 ### Trigger
 ```text
@@ -99,7 +99,7 @@
 
 ## GIF 61-70
 ```text
-
+https://i.makeagif.com/media/11-16-2024/XSLnMb.gif
 ```
 ### Trigger
 ```text
@@ -117,7 +117,7 @@
 
 ## GIF 71-80
 ```text
-
+https://tenor.com/nr6FyBjN3Ct.gif
 ```
 ### Trigger
 ```text
@@ -135,7 +135,7 @@
 
 ## GIF 81-90
 ```text
-
+https://i.makeagif.com/media/7-21-2015/705841.gif
 ```
 ### Trigger
 ```text
@@ -153,7 +153,7 @@
 
 ## GIF 91-100
 ```text
-
+https://i.makeagif.com/media/4-26-2021/CDYG1A.gif
 ```
 ### Trigger
 ```text
@@ -170,7 +170,7 @@
 
 ## GIF 101-110
 ```text
-
+https://tenor.com/jRMW8l9Ts0n.gif
 ```
 ### Trigger
 ```text
@@ -188,7 +188,7 @@
 
 ## GIF 111-120
 ```text
-
+https://i.makeagif.com/media/8-26-2018/32gQTM.gif
 ```
 ### Trigger
 ```text
@@ -206,7 +206,7 @@
 
 ## GIF 121-130
 ```text
-
+https://tenor.com/bJMDk.gif
 ```
 ### Trigger
 ```text
@@ -224,7 +224,7 @@
 
 ## GIF 131-140
 ```text
-
+https://tenor.com/bZHxS.gif
 ```
 ### Trigger
 ```text
@@ -241,7 +241,7 @@
 
 ## GIF 141-150
 ```text
-
+https://i.makeagif.com/media/7-25-2017/zjXc1B.gif
 ```
 ### Trigger
 ```text
@@ -259,7 +259,7 @@
 
 ## GIF 151-160
 ```text
-
+https://tenor.com/89mv.gif
 ```
 ### Trigger
 ```text
@@ -277,7 +277,7 @@
 
 ## GIF 161-170
 ```text
-
+https://i.makeagif.com/media/5-29-2018/jmJncG.gif
 ```
 ### Trigger
 ```text
@@ -295,7 +295,7 @@
 
 ## GIF 171-180
 ```text
-
+https://tenor.com/X9N4.gif
 ```
 ### Trigger
 ```text
@@ -312,7 +312,7 @@
 
 ## GIF 0 
 ```text
-
+https://tenor.com/ZmMa.gif
 ```
 ### Trigger
 ```text
@@ -320,7 +320,7 @@
 ```
 ## GIF 26
 ```text
-
+https://tenor.com/b1mov.gif
 ```
 ### Trigger
 ```text
@@ -328,7 +328,7 @@
 ```
 ## GIF bull
 ```text
-
+https://i.makeagif.com/media/4-29-2022/uAGeDm.gif
 ```
 ### Trigger
 ```text
