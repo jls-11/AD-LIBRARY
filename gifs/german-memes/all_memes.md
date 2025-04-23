@@ -1,4 +1,4 @@
-# 🇩🇪 Alle Deutschen Memes
+# 🇩🇪 All German Memes
 #### ➡️ Weitere GIF's bitte einsenden!
 Unterstellungen
 ```text
