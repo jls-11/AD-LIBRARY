@@ -15,7 +15,7 @@ I am open to further suggestions regarding the addition of gifs or entire packag
 
 [Montanablack](gifs/Montanablack/Montanablack.md)
 
-[Simpsons](gifs/Simpsons/Simpsons.md)
+[Simpsons](gifs/simpsons/simpsons.md)
 
 [Template own packages](gifs/template)
 
