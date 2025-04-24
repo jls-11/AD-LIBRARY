@@ -13,6 +13,10 @@ I am open to further suggestions regarding the addition of gifs or entire packag
 
 [German Memes](gifs/german-memes/german-memes.md)
 
+[Montanablack](gifs/Montanablack/Montanablack.md)
+
+[Simpsons](gifs/Simpsons/Simpsons.md)
+
 [Template own packages](gifs/template)
 
 ## 📁 Sound FX packages
