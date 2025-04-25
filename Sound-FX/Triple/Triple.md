@@ -55,3 +55,11 @@ Trigger
 ```text
 ambient_t15
 ```
+Bull
+```text
+https://www.myinstants.com/media/sounds/dartslive2-bull.mp3
+```
+Trigger
+```text
+bull
+```
