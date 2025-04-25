@@ -1,4 +1,4 @@
-# 🎞️ Template
+# 🎞️ 🎯 Darts-GIF-Package
 ## GIF 1-10
 ```text
 https://media1.tenor.com/m/LU60882wezcAAAAC/fallon-sherrock-sports.gif
