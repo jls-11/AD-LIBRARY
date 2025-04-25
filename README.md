@@ -17,6 +17,8 @@ I am open to further suggestions regarding the addition of gifs or entire packag
 
 - [Simpsons](gifs/simpsons/simpsons.md)
 
+- [Darts-GIF's](gifs/darts-gifs/darts-gifs.md)
+
 - [Template own packages](gifs/template)
 
 ## 📁 Sound FX packages
