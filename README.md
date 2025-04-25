@@ -20,8 +20,11 @@ I am open to further suggestions regarding the addition of gifs or entire packag
 [Template own packages](gifs/template)
 
 ## 📁 Sound FX packages
-[Example](Sound-FX/example/example.md)
+[Songs/Walkons](Sound-FX/songs/songs.md)
+
+[Triples, Bull, Cricket](Sound-FX/Triple/Triple.md)
 
 [Template own packages](Sound-FX/template)
+➡️ [Example](Sound-FX/example/example.md)
 
 For more SoundFX ➡️ https://www.myinstants.com/en/search/?name=Autodarts
