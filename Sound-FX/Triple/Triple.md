@@ -63,3 +63,19 @@ Trigger
 ```text
 bull
 ```
+Cricket Miss
+```text
+https://autodarts.x10.mx/sound_double_windart.wav
+```
+Trigger
+```text
+cricket_miss
+```
+Cricket Hit
+```text
+https://autodarts.x10.mx/bonus-points.mp3
+```
+Trigger
+```text
+cricket_hit
+```
