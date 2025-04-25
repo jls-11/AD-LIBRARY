@@ -1,4 +1,4 @@
-# Triple Sound-FX-Package
+# Triple, Bull, Cricket Sound-FX
 Triple
 ```text
 https://autodarts.x10.mx/beep_1.mp3
