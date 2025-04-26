@@ -1,4 +1,5 @@
 # Triple, Bull, Cricket Sound-FX
+![](https://reshape.sport1.de/c/t/4d5465ac-d7fe-4f35-af3d-8134e5f94b0c/1200x630)
 Triple
 ```text
 https://autodarts.x10.mx/beep_1.mp3
