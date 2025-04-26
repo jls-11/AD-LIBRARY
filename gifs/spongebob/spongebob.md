@@ -8,7 +8,7 @@
   ![Preview](https://github.com/jls-11/AD-LIBRARY/blob/main/gifs/spongebob/preview.gif?raw=true)
 
 </details>
-#
+# -
 
 ## GIF 1-10
 ```text
