@@ -2,6 +2,15 @@
 #### ➡️ Please send in more GIFs! 
 #### All memes can be viewed at `all_memes.md`.
 ![](https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg)
+# 
+<details>
+<summary>show preview</summary>
+
+  ![Preview](https://github.com/jls-11/AD-LIBRARY/blob/main/gifs/german-memes/preview.gif?raw=true)
+
+</details>
+
+# 
 ## GIF 1-10
 ```text
 https://i.makeagif.com/media/8-16-2023/cwO5E9.gif
