@@ -3,6 +3,7 @@
 ![](https://static.wikia.nocookie.net/spongebob/images/5/5c/Spongebob-squarepants.png/revision/latest?cb=20190424195119&path-prefix=de)
 # 
 
+
 <details>
 <summary>Vorschau anzeigen</summary>
 
