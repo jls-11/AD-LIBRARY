@@ -321,7 +321,7 @@ https://media1.giphy.com/media/cHFdCVLqWhOJW/giphy.gif?cid=6c09b952u9x0q1g19v2it
 ```text
 0
 ```
-![](https://media1.giphy.com/media/cHFdCVLqWhOJW/giphy.gif)
+![]()
 ## GIF 26
 ```text
 https://media3.giphy.com/media/26nfouqTYGv58LGBW/giphy.gif?cid=6c09b952ehdzeqf662igez4qip4oq8etm42sihlz7f4mfue1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g
