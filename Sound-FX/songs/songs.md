@@ -4,6 +4,7 @@ Luke Littler
 ```text
 https://www.myinstants.com/media/sounds/the-nuke-autodarts.mp3
 ```
+![](https://www.myinstants.com/media/sounds/the-nuke-autodarts.mp3)
 Nathan Aspinall
 ```text
 https://www.myinstants.com/media/sounds/aspinall-darts.mp3
