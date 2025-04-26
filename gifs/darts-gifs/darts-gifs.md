@@ -1,4 +1,5 @@
 # 🎞️ 🎯 Darts-GIF-Package
+![](https://www.hinz-bamberg.de/wp-content/uploads/2024/12/20241210_121650-800x800-1.jpg)
 ## GIF 1-10
 ```text
 https://media1.tenor.com/m/LU60882wezcAAAAC/fallon-sherrock-sports.gif
