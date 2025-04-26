@@ -6,8 +6,6 @@
 ➡️ For the [gifs](gifs) we put together complete gif packages. You can simply use these. You only have to copy links and triggers into autodarts tools.
 ➡️ However, you can also create your own packages using the [template](gifs/template). 
 
-###### ⚙️ I am open to further suggestions regarding the addition of gifs or entire packages, as well as sounds and suggestions for improvement.
-
 ## 📁 🎞️ GIF packages
 - [Spongebob](gifs/spongebob/spongebob.md)
 
@@ -30,3 +28,5 @@
   - ➡️ [Example](Sound-FX/example/example.md)
 
 ###### For more SoundFX ➡️ https://www.myinstants.com/en/search/?name=Autodarts & https://www.101soundboards.com/search/autodarts
+
+###### ⚙️ I am open to further suggestions regarding the addition of gifs or entire packages, as well as sounds and suggestions for improvement.
