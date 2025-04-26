@@ -1,5 +1,14 @@
 # 🎞️ Montanablack GIF-Package
 ![](https://upload.wikimedia.org/wikipedia/commons/8/80/MontanaBlack.jpg)
+# 
+<details>
+<summary>show preview</summary>
+
+  ![Preview](https://github.com/jls-11/AD-LIBRARY/blob/main/gifs/Montanablack/preview.gif?raw=true)
+
+</details>
+
+# 
 ## GIF 1-10
 ```text
 https://media1.tenor.com/m/l5tsEA5TppMAAAAC/monte-smash-monte.gif
