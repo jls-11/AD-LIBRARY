@@ -1,6 +1,6 @@
 # 🎞️ 🇩🇪 German Memes
 #### ➡️ Please send in more GIFs! 
-#### All memes can be viewed at `all_memes.md`.
+#### All memes can be viewed at [`all_memes.md`](gif/german-memes/all_memes.md).
 ![](https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg)
 # 
 <details>
