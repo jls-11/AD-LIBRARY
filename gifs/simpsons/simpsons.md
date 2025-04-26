@@ -1,5 +1,15 @@
 # 🎞️ Simpsons GIF-Package
 ![](https://m.media-amazon.com/images/M/MV5BNTU2OWE0YWYtMjRlMS00NTUwLWJmZWUtODFhNzJiMGJlMzI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
+# 
+<details>
+<summary>show preview</summary>
+
+  ![Preview](https://github.com/jls-11/AD-LIBRARY/blob/main/gifs/simpsons/preview.gif?raw=true)
+
+</details>
+
+# 
+
 ## GIF 1-10
 ```text
 https://media1.tenor.com/m/BJmzaG1a8rUAAAAC/gravewalker-nunca-morto.gif
