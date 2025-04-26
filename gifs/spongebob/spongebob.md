@@ -2,6 +2,8 @@
 
 ![](https://static.wikia.nocookie.net/spongebob/images/5/5c/Spongebob-squarepants.png/revision/latest?cb=20190424195119&path-prefix=de)
 
+![Preview](gifs/spongebob/preview.gif)
+
 ## GIF 1-10
 ```text
 https://media4.giphy.com/media/ZSghhrWswydCE/giphy.gif?cid=6c09b952z1oz46hyt2vb71uvgkugjc4x0ywqcdv7khm3r6k0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g
