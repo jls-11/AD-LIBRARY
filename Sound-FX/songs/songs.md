@@ -4,12 +4,6 @@ Luke Littler
 ```text
 https://www.myinstants.com/media/sounds/the-nuke-autodarts.mp3
 ```
-<p>Hör dir das Audio an:</p>
-<audio controls>
-  <source src="https://www.myinstants.com/media/sounds/the-nuke-autodarts.mp3" type="audio/mpeg">
-  Dein Browser unterstützt das Audio-Element nicht.
-</audio>
-
 Nathan Aspinall
 ```text
 https://www.myinstants.com/media/sounds/aspinall-darts.mp3
