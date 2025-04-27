@@ -8,7 +8,7 @@
 ➡️ However, you can also create your own packages using the [template](gifs/template). 
 
 ## 📁 🎞️ GIF packages
-###### ➡️ Tip: Take a look at the previews of the GIF packages on their individual pages!
+###### 💡 Tip: Take a look at the previews of the GIF packages on their individual pages!
 - [Spongebob](gifs/spongebob/spongebob.md)
 
 - [German Memes](gifs/german-memes/german-memes.md)
