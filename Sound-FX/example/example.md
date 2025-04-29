@@ -57,3 +57,19 @@ Trigger
 miss
 outside
 ```
+lobby in
+```text
+https://www.myinstants.com/media/sounds/ps1-bootup.mp3
+```
+Trigger
+```text
+ambient_lobby_in
+```
+lobby out
+```text
+https://www.myinstants.com/media/sounds/discord-leave-noise.mp3
+```
+Trigger
+```text
+ambient_lobby_out
+```
