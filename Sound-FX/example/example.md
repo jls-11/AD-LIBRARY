@@ -59,7 +59,7 @@ outside
 ```
 lobby in
 ```text
-https://www.myinstants.com/media/sounds/ps1-bootup.mp3
+https://www.myinstants.com/media/sounds/discord-sounds.mp3
 ```
 Trigger
 ```text
